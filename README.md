@@ -1,1 +1,0 @@
-# Multiplication-2x1
